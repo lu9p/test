@@ -1,4 +1,4 @@
-function addOne(x) {
+function add One(x) {
   return x+1;
 }
 
